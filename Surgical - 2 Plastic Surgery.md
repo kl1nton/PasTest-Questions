@@ -559,14 +559,26 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 
 
 ### Theme: Disorders of the wrist and hand (A) #
+	A. De Quervain's tenosynovitis
+	B. Ganglion of the flexor sheath
+	C. Bacterial flexor tenosynovitis
+	D. Carpal tunnel syndrome
+	E. Volkman's ischaemic contracture
+	F. Stenosing tenosynovitis
+	G. Flexor carpi radialis tenosynovitis
+	H. Dupuytren's contracture
+	I. Mallet finger
 
 #### S1
+A 35-yo housewife presents to her GP wth aching pain over the radial side of her left wrist after doing some strenuous domestic work. On examination, the pain is worsened by flexion and ulnar deviation of the wrist with the thumb adducted across the palm.
 ##### Answer:
 
 #### S2
+A 62-yo diabetic man presents to his GP with a painless, hard lump beneath the skin in the palm along the line of his left finger. On examination, there is a 10º fixed flexion deformity of the metacarpophalangeal (MCP) joint of the ring finger.
 ##### Answer:
 
 #### S3
+A 38-yo garnder presents to the ED with a swollen and tender left ring finger. He sustained a thorn prick to his finger 3 days ago. On examination, the finger is partially flexed and there is severe pain on passive extension of the digit.
 ##### Answer:
 
 
