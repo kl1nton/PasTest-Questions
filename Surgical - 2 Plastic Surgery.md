@@ -127,11 +127,44 @@ What is the likely Dx?
 - Treatment is with ITU, paediatric and plastic surgery input
 - Circulatory support with cryoprecipitate may be necessary
 
-### Q7
-#### Answer: 
+### Q7 (E) #36871
+A 54-yo man is referred with numbness in his radial 3 digits, which is worse at night.
 
-### Q8
-#### Answer: 
+Compression of which nerve is responsible for his Sx?
+
+	A. Axillary nerve
+	B. Median nerve
+	C. Musculocutaneous nerve
+	D. Radial nerve
+	E. Ulnar nerve
+
+#### Answer: B. Median nerve - TRUE
+- Formed by the lateral and medial cord of the brachial plexus
+	- Median Nerve has contribution rom C6, C7, C8 and T1
+- It enters the Hand via the Carpal Tunnel
+	- Anatomical compression in this area can lead to carpal tunnel syndrome
+- Just as it exits the tunnel
+	- Median Nerve gives off the _Recurrent Motor Branch_
+	- Avoid damaging this in surgical release of the flexor retinaculum
+
+### Q8 (A) #36872
+A 79-yo lady attends A&E having collapsed onto a radiator. She has a full thickness burn to her buttock.
+
+What is the definition of a full thickness burn?
+
+	A. Extends through the entire dermis, and has a black, eschar appearance. Painless
+	B. Involved the epidermal skin layer, is acutely painful and likely to heal within 10-days of injury
+	C. Involved the papillary dermis, with associated blistering. Areas blanch with pressure and are acutely painful. Likely to heal within 21-days of injury
+	D. Involve the reticular dermis, white in appearance, does not blanch. Likely to heal within 8-weeks with resultant scarring and contractures
+	E. None of he above
+
+#### Answer: A. Extends through the entire dermis, and has a black, eschar appearance. Painless - TRUE
+- Full-thickness burns will need a prolonged time to heal 
+	- Excision and grafting is advocated where patients are medically fit to tolerate a short anaesthetic
+- Elderly patients with co-morbidities
+	- More likely to die as a result of smaller burns compared to a younger cohort
+- Burns should be managed in specialist units
+	- With dedicated burns surgeons and anaesthetists
 
 ### Q9
 #### Answer: 
