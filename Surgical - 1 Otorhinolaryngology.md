@@ -766,6 +766,18 @@ A 25-year-old fireman is rescued by his colleagues after becoming trapped by fal
 A 49-year-old man attends ED with severe, sudden onset submandibular pain. Over the last few weeks he has experiences similar pain precipitated by eating, but never as severe as this. Past history includes hypertension. On examination, he is afebrile and there is diffuse submandibular swelling that is only minimally tender on palpation.
 
 ##### Answer: E. Sialolithiasis - TRUE
+- Calculi can occur in the submandibular or parotid glands
+	- The former (submandibular) is most commonly affected
+- Predisposing factors include
+	1. Chronic sialadenitis
+	2. Reduced salivary flow rates
+	3. Dehydration
+	4. Duct obstruction
+- Calculi are associated with
+	1. Diabetes mellitus
+	2. Hypertension
+	3. Chronic liver disease
+- HERE
 
 #### S2
 A 32-year-old woman is referred to clinic with parotidomegaly. She reports intermittent painless welling over the last few months. Past medical history include hypothyroidism and chronic back pain for which she takes thyroxine 100µg and co-proxaol, respectively. On examination, there is soft enlargement of the parotid gland. 
