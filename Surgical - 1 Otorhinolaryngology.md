@@ -961,7 +961,18 @@ G. Sternocleidomastoid tumour - TRUE
 #### S4
 A 20-year-old woman presents with an asymptomatic painless lump in the midline below her chin. The lump is smooth, measures 1cm, is non-tender and moves on swallowing
 ##### Answer: I. Thyroglossal cyst - TRUE
--  gut
+-  In the embryo, the thyrogossal gland develops from the thyrogossal duct
+	- Originates at the _foramen caecum_ at the base of the tongue
+- Occasionally the duct may remain patient
+	- Structure known as a thryoglossal cyst can persist
+- **Commonest** midline neck masses of infancy
+	- May be confused with epidermoid cysts, dermoid cysts or pyramidal lobe thyroid nodules
+- They are lined with squamous or ciliated pseudostratified columnar epithelium
+	- Occasionally they contain lymphoid or thyroid tissue
+	- Any of its constituents may undergo malignant change
+- Management
+	- Surgical excision of the cyst + central portion of hyoid bone
+	- Known as Sistrunk's operation - ensures condition cannot recur
 
 **Notes**
 - When considering neck lumps, it may be helpful to consider the anatomy of the neck and its sub-division into anterior and posterior triangles
@@ -970,7 +981,7 @@ A 20-year-old woman presents with an asymptomatic painless lump in the midline b
 	2. Thyroid lumps/enlargement (and thyroid gland cyst): midline and common
 	3. Oddities (often embryologic): lateral and rare
 
-## Theme: Cervical lymphadenopathy
+## Theme: Cervical lymphadenopathy (A) #4550
 	A. Idiopathic histiocytic necrotising lymphadenitis
 	B. Infectious mononucleosis
 	C. Lymphoreticular disease
@@ -982,34 +993,83 @@ A 20-year-old woman presents with an asymptomatic painless lump in the midline b
 	I. Tuberculosis
 
 #### S1
-##### Answer:
+A 68-yo man presents with an asymptomatic slowly growing painless lump in the neck. On examination he has a hard 2cm mass lying laterally in the submandibular triangle of his neck, deep to the middle third of the right sternocleidomastoid muscle. The patient is noted to have a dysphonia.
+##### Answer: C. Lymphoreticular disease - FALSE
+D. Metastatic malignancy - TRUE
+- This position describes that of the cervical lymph nodes that drain the oropharynx and larynx
+- The lymphatic system of the neck can be divided into Levels 1-5
+- This man has palable Level 3 nodes, that also drain Levels 1 & 2
+	- Which receive lymph from the Scalp, Face and Lips
+- Most likely diagnosis is a **laryngeal carcinoma** given the dysphonia
 
 #### S2
-##### Answer:
+A 12-yo girl presents with recurrent sore throats and on examination she has a soft 2cm mass lying laterally within the anterior triangle of the neck, just below the angle of the mandible.
+##### Answer: B. Infectious mononucleosis - *FALSE*
+G. Tonsillitis - TRUE
+
+- The acute history and anatomical description of involved lymph nodes is typical of tonsillitis
+	- Remember that the tonsil itself is a lymphoid structure
+- Other acute causes of cervical lymphadenopathy include
+	1. Pharyngitis/laryngitis
+	2. Epstein-Barr virus (EBV) infection
+- Chronic causes include
+	1. Tuberculosis
+	2. Sarcoidosis
 
 #### S3
-##### Answer:
+A 28-yo Caucasian presents with a 3-mo Hx of night sweats, weight loss and a unilateral enlargement of his left tonsil. There is also a rubbery enlarged level III lymph node in the left posterior triangle.
+##### Answer: D. Metastatic malignancy - *FALSE*
+C. Lymphoreticular disease - TRUE
+- The suspicious Hx and Ex findings are typical of malignancy
+	- i.e. lymphoproliferative or myeloproliferative disease in this case
+- DDx would be tuberculosis/HIV in at-risk individuals
 
-## Theme: Lumps in the neck (?): #5538
+**Notes**
+- The primary causes of cervical lymphadenopathy can be classified into 4
+	1. Primary malignancy
+		- Lymphomas and leukaemias i.e. lymphoreticular diease
+	2. Metastatic malignancy
+		- Local carcinomas
+	3. Infections
+	4. Sarcoid
+ 
+## Theme: Lumps in the neck (A): #5538
 
 	A. Cystic hygroma
 	B. Carotid body tumour
-	C. Tumour in the sterocleidomastoid muscle
+	C. Tumour in the sterocleidomastoid (SCM) muscle
 	D. Branchial cyst
 	E. Cervical lymphadenopathy
-	F. Thyroid ademia
+	F. Thyroid adenoma
 	G. Carotid artery aneurysm
 	
 #### S1
-##### Answer:
+A 3-yo child presents with a slow-growing painless swelling on the right side of the base of the neck. Examination revealed a fluctuant swelling that transilluminated.
+##### Answer: A. Cystic hygroma - TRUE
+- Congenital cystic lymphatic malformation at the root of the neck
+	- 50% are present at birth
+	- Thin walled and transilluminable
+- CT and MRI may be helpful for determination of their extent
 
 #### S2
-##### Answer:
+A woman in her 30s complained of a swelling between the anterior and posterior triangle on the anterior surface of the mid-third of the sternomastoid muscle for the past week, which was painless on examination. She gave a Hx of a similar swelling a few months ago which regressed spontaneously.
+##### Answer: E. Thyroid adenoma - *FALSE*
+D. Branchial cyst - TRUE
+- Branchial cysts are found at the anterior border of the SCM
+	- Usually present in the 3rd decade
+- Patients complain of an enlarging lump	
+	- Usually presenting from behind the junction of upper and mid thirds of SCM
+	- Although it may occur behind or just in front of SCM - as **HERE**
 
 #### S3
-##### Answer:
+A 35-yo woman, who works as an animal handler, with painless swelling in the posterior triangle of her neck for 2 months
+##### Answer: E. Cervical lymphadenopathy - TRUE
+- Painless lumps in the posterior triangle are most likely 
+	- Manifestation of cervical lymphadenopathy
+		- As in this case, potentially secondary to occupational disease
+	- A cervical rib
 
-## Theme: Neck swellings
+## Theme: Neck swellings (E) #6109
 	
 	A. Branchial cyst
 	B. Sebaceous cyst
@@ -1020,18 +1080,44 @@ A 20-year-old woman presents with an asymptomatic painless lump in the midline b
 	G. Thyroglossal duct cyst
 
 #### S1
-##### Answer:
+A 40-yo man presents with a 3-day Hx of increasing bilateral submental swelling with overlying erythema, pyrexia and trismus.
+##### Answer: E. Sternomastoid tumour - *FALSE*
+F. Ludwig's angina - TRUE
+- **Ludwig's angina** is a cellulitis affecting the submental spaces bilaterally
+- It is usually of dental origin and results in a raised hard floor of mouth
+- Trismus is _always_ present and the patient is systemically unwell
+- Early Dx is essential
+	- Airway may become compromised unless prompt Tx is undertaken
 
 #### S2
-##### Answer:
+A 30-yo lady has a firm swelling in the region of the upper aspect of her left SCM muscle. Recently it has been acutely tender and further enlarged, but responded to antibiotics.
+##### Answer: A. Branchial cyst - TRUE
+- Often present in the third or fourth decades 
+	- As a palpable swelling protruding from the anterior aspect of the upper one-third of the sternocleidomastoid (SCM)
+- If they become infected they enlarge and are often painful
 
 #### S3
-##### Answer:
+A 65-yo man complains of an enlarging hard swelling in the lower aspect of the right anterior triangle, He is a heavy smoker and is concerned about a change in his voice.
+##### Answer: D. Cervical lymph node metastasis - TRUE
+- A heavy smoker is at increased risk of developing a SCC of Head and Neck
+- Patient has a laryngeal carcinoma resulting in
+	1. Voice change
+	2. Metastasis to cervical lymph nodes
 
 #### S4
-##### Answer:
+A 2-yo girl presents with diffuse swelling in her right posterior triangle. Her parents report it is of variable size and upon examination it transilluminates
+##### Answer: C. Cystic hygroma - TRUE
+- Also known as cystic lymphangiomas, cystic hygromas are 
+	- Developmental abnormatilities arising from sequestation of lymphatic tissue 
+	- That does not communicate normally with the rest of the lymphatic system
+- 90% of lesions have developed by 2-years
+	- Majority are found in the posterior triangle 
+- Rapid enlargement may occur secondary to an upper respiratory tract (URT) infection
 
 #### S5
-##### Answer:
+A 55-yo man with dyspepsia complains of a hard swelling in his left supraclavicular fossa
+##### Answer: D. Cervical lymph node metastasis - TRUE
+- **Virchow's node** or **Troisier's sign**
+	- A gastric carcinoma has metastasised to the Left Supraclavicular Fossa
 
 ---
