@@ -748,7 +748,7 @@ A 25-year-old fireman is rescued by his colleagues after becoming trapped by fal
 	- Should have electively intubated patient before sign is present
 - Similar pattern of airway obstruction can be caused by ingestion of corrosives, such as strong acids/alkalis
 
-## Theme: Non-neoplastic salivary gland disease (?)
+## Theme: Non-neoplastic salivary gland disease (A)
 
 	A. Acute suppurative sialadenitis
 	B. HIV-associated sialadenitis
@@ -763,12 +763,16 @@ A 25-year-old fireman is rescued by his colleagues after becoming trapped by fal
 \#4547
 
 #### S1
-##### Answer: ?
+A 49-year-old man attends ED with severe, sudden onset submandibular pain. Over the last few weeks he has experiences similar pain precipitated by eating, but never as severe as this. Past history includes hypertension. On examination, he is afebrile and there is diffuse submandibular swelling that is only minimally tender on palpation.
+
+##### Answer: E. Sialolithiasis - TRUE
 
 #### S2
-##### Answer: ?
+A 32-year-old woman is referred to clinic with parotidomegaly. She reports intermittent painless welling over the last few months. Past medical history include hypothyroidism and chronic back pain for which she takes thyroxine 100µg and co-proxaol, respectively. On examination, there is soft enlargement of the parotid gland. 
+##### Answer: H. Viral parotitis - FALSE
 
 #### S3
-##### Answer: ?
+A 50-year-old woman presents with a recent history of dry mouth. On direct questioning she reports irritations of her eyes, although she denies arthralgia. There is no relevant past medical or drug history. Clinical examination of the salivary glands is unremarkable. FBC is normal, but ESR and CRP are both grossly elevated.
+##### Answer: G. Sjogren's syndrome - TRUE
 
 ---
