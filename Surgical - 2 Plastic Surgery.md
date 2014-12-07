@@ -4,7 +4,7 @@
 
 ## SBA
 
-15 Questions: ??%
+14 Questions: 64%
 
 ### Q1 (E) #36865
 A 36-yo man is admitted to ITU having sustained 60% total body surface area burns.
@@ -166,28 +166,189 @@ What is the definition of a full thickness burn?
 - Burns should be managed in specialist units
 	- With dedicated burns surgeons and anaesthetists
 
-### Q9
-#### Answer: 
+### Q9 (A) #36873
+A 45-yo lady undergoes breast reconstruction using a pedicled **Latissimus Dorsi** (LD) muscle transfer
 
-### Q10
-#### Answer: 
+What is the blood supply of latissimus dorsi?
 
-### Q11
-#### Answer: 
+	A. Axillary artery
+	B. Dorsal scapular artery
+	C. Scapular artery
+	D. Thoracoacromial artery
+	E. Thoracodorsal artery
 
-### Q12
-#### Answer: 
+#### Answer: E. Thoracodorsal artery - TRUE
+- Thoracodorsal Artery us a branch of the Subscapular Artery
+	- Supplied Latissimus Dorsi
+- The muscle is raised high into the axilla with protection of the neurovascular bundle
+	- A skin paddle is taken with it
+	- The Serratus Branch is often clipped and dividied
+- The muscle is then passed through the axilla from the back to reach the front
+	- Flap can be monitored by pressing on skin paddle to assess capillary refill
+- Failure rates are low given that this is a pedicled flap
+	- **No microvascular anastomic** connections
 
-### Q13
-#### Answer: 
+### Q10 (A) #36874
+You are assisting in a mastectomy and a level III clearance.
 
-### Q14
-#### Answer: 
+Which of the following statement best describes the anatomical level to which clearance should be gained?
 
-### Q15
-#### Answer: 
+	A. Above pectoralis minor
+	B. Below pectoralis minor
+	C. To the outer boarder of the first rib
+	D. Up to the medial board of pectoralis major
+	E. Up to the medial board of pectoralis minor
+	
+#### Answer: B. Below pectoralis minor - *FALSE*
+A. Above pectoralis minor - TRUE - **QUERY**
+- Axillary clearance is divided into 3 levels
+	1. Lateral to pectoralis minor
+	2. Up to the medial border of pectoralis minor
+	3. Beyond the medial border of pectoralis minor
 
+### Q11 (E) #36876
+A 21-yo man is seen in the clinic with a suspected scaphoid fracture. Your consultant quizzes you on the anatomy of the carpal bones.
+
+What of the following lies in the distal carpal row?
+
+	A. Hamate
+	B. Luate
+	C. Pisiform
+	D. Scaphoid
+	E. Triquetrium
+	
+#### Answer: E. Triquetrium - *FALSE*
+A. Hamate - TRUE
+- Distal row (from medial to lateral)
+	- **Hamate**, Capitate, Trapezoid, Trapezium
+- Proximal row (from medial to lateral)
+	- Pisiform, Triquetral, Lunate, Scaphoid
+- Mnemonic: **TODO**	
+
+### Q12 (A) #36877
+A 55-yo man is admitted with 20% burns and is due to undergo debridement and grafting.
+
+Which of the following perioperative considerations should you ensure is completed before the patient goes to theatre?
+
+	A. Call his next of kin to explain procedure
+	B. Cross match blood
+	C. Prescribe analgesics
+	D. Prescribe IV antibiotics
+	E. Wear personal protective clothing
+
+#### Answer: B. Cross match blood - TRUE
+- A burn greater than 2% required cross-matched blood to be available
+- Despite use of adrenaline and haemostasis
+	- Patient can lose a large amount of blood in a short time
+
+### Q13 (A) #36878
+A 67-y lady with a recently excised malignant melanoma of the leg returns to clinic with a palpable groin lump suggestive of lymphadenopathy.
+
+What is the next step in her management?
+
+	A. CT scan
+	B. FNA
+	C. Groin dissection
+	D. Open node biopsy
+	E. PET scan
+	
+#### Answer: E. PET scan - *FALSE*
+B. FNA (fine needle aspiration biopsy)
+- She should have an FNA for cytology
+	- May be done under USS if the node is small
+- If the results are inconclusive, discuss option of open node biopsy
+- If positive, she will require elective groin dissection with whole body CT scan
+- **Little evidence** to suggest than removal of pelvis lymph nodes _reduces mortality_
+
+### Q14 (A) # 36879
+A 78-yo lady is awaiting a right-side groin dissection for metastatic spread of melanoma. During her perioperative investigations she is noted to have a DVT in her right leg.
+
+What should happen next in this case?
+
+	A. Cancel surgery and monitor her progress with 3/12 CT scans
+	B. Continue surgery, keep her on warfarin
+	C. Continue surgery, start her on IV heparin
+	D. Postpone surgery until she has been warfarinised for 3/12
+	E. Postpone surgery until she has been warfarinised for 6/12
+
+#### Answer: C. Continue surgery, start her on IV heparin - TRUE
+- This is a difficult situation
+	- Delaying surgery will almost certainly lead to widespread metastatic spread of her cancer
+	- Concurrent DVT will increase her mortality risk from GA
+- The options should be discussed in detail with the patient
+- IV heparin makes it easier to reverse her coagulopathic state
+	- Careful haemostatis will ensure minimal bleeding
 
 ## EMQ
 
 15 Questions: ??%
+
+### Theme: Management of burns (E) #
+
+#### S1
+##### Answer:
+
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+### Theme: (E) #
+
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (E) #
+#### S1
+##### Answer:
+
+### Theme: (A) #
+#### S1
+##### Answer:
+
+### Theme: (A) #
+#### S1
+##### Answer:
+
+### Theme: (A) #
+#### S1
+##### Answer:
+
+### Theme: (A) #
+#### S1
+##### Answer:
+
+### Theme: (A) #
+#### S1
+##### Answer:
+
+### Theme: (A) #
+#### S1
+##### Answer:
+
+---
