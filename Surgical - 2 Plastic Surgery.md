@@ -436,9 +436,11 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 	C.
 
 #### S1
+A 25-yo man presents with shallow, painless, round ulcer on his penis, On direct questioning he admits to having unprotected sexual intercourse 1-month ago. The ulcer has a hard, raised, hyperaemic edge and there is associated shotty inguinal lymphadenopathy.
 ##### Answer:
 
 #### S2
+A 45-yo farmer presents with septicaemia to ED. A small ulcer with a black base and indurated edge is noticed on his forearm and there is axillary lymphadenopathy. He describes the ulcer starting as a small papule, which they broke down to form the ulcer.
 ##### Answer:
 
 
@@ -450,81 +452,120 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 	E.
 	
 #### S1
+Occurs with a Hutchinson's melanotic freckle
 ##### Answer:
 
 #### S2
+Has a predilection for sites with thick epidermis such as the sole(s) of the feet.
 ##### Answer:
 
 #### S3
+Usually occurs on the face of elderly patients
 ##### Answer:
 
 #### S4
+Is the commonest type of cutaneous malignant melanoma
 ##### Answer:
 
 
 ### Theme: Skin lesions (E) #
+	A. Central keratin plug
+	B. Intraepidermal (_in situ_) squamous carcinoma
+	C. Keratin pearl formation
+	D. Palisading basal cells at the periphery of tumour islamds
+	E. S-100 positive on immunohistochemical staining
+
+_For each of the lesions listed below, select the most appropriate characteristics from the above list._
 
 #### S1
+Malignant melanoma
 ##### Answer:
 
 #### S2
+Basal cell carcinoma
 ##### Answer:
 
 #### S3
+Squamous cell carcinoma
 ##### Answer:
 
 #### S4
+Bowen's disease
 ##### Answer:
 
 #### S5
+Keratoacanthoma
 ##### Answer:
 
 
 ### Theme: Non-malignant cutaneous lumps (E) #
 
+	A. Dercum's disease
+	B. Dermatofibroma
+	C. Dermoid cyst
+	D. Linear epidermal naevus
+	E. Lupus vulgaris
+	F. Necrobiosis lipoidoca
+	G. Sebaceous cyst
+	H. Seborrhoeic keratosis
+	I. Stucco keratosis
+	J. Xanthelasma
+
 #### S1
+A 19-yo Asian girl presents with an 8/12 Hx of facial oedema associated with multiple cutaneous, jelly-like nodular lesions over her face. The skin surrounding the lesion appears congested.
 ##### Answer:
 
 #### S2
+An 18-yo girl presents to her GP with an inflamed, tender cyst over the nape of her neck. The cyst has a punctum. She has had similar lesions over this region in the past.
 ##### Answer:
 
 #### S3
+A 65-yo farmer presents with multiple, raised, brown, greasy lesions over the face. The surface over the lesions shows a network of crypts.
 ##### Answer:
 
 #### S4
+A 25-yo lady presents with an itchy, pigmented, freely mobile nodule over her right leg. The patient noticed this lesion after an insect bite 5-days ago.
 ##### Answer:
 
 
 ### Theme: Cutaneous malignancies (E) #
 
 #### S1
+A 75-yo woman presents with a brown pigmented patch over her right cheek, which has been present for 10-years. It has an irregular outline and is thickened with a discrete tumour nodule.
 ##### Answer:
 
 #### S2
+A 23-yo woman presents with a raised and sharply delineated black patch over her right lower leg. It has a smooth surface but it is itchy and bleeds occasionally.
 ##### Answer:
 
 #### S3
+A 73-yr retired builder presents with a small, well-defined ulcer over his right eye which has a pearly, rolled-out edge. He states that it appeared 6/12 ago as a nodule with a shiny white surface.
 ##### Answer:
 
 #### S4
+A 68-yo farmer presents with a 4/52 Hx of a solitary, fleshy and elevated nodule over his right cheek. He say that it is growing rapidly and on examination, it has a central hyperkeratotic core.
 ##### Answer:
 
 
-### Theme: Premaligant lesions/cutaneous malignancies (A) #
+### Theme: Premalignant lesions/cutaneous malignancies (A) #
 
 #### S1
+A 75-yo farmer presents with a painless, well-defined ulcer over the lateral aspect of his left angular region (lateral corner of the eye). On examination, it has a pearly rolled-out edge. He states that he noticed it 8-months ago as a small, pearly nodule which soon ulcerated.
 ##### Answer:
 
 #### S2
+A 64-yo builder presents with a 7/52 Hx of a rapidly growing, solitary, fleshy and dome-shaped nodule over his right nasolabial region. On examination, it has got a central hyperkeratotic core.
 ##### Answer:
 
 #### S3
+A 70-yo ex-sailor presents with an exophytic ulcer over his left cheek. On examination, the ulcer has got an everted edge. A few lymph nodes are palpable in his neck.
 ##### Answer:
 
 
 ### Theme: Benign and malignant pigmented skin lesions (A) #
 
 #### S1
+	
 ##### Answer:
 
 #### S2
@@ -536,25 +577,51 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 
 ### Theme: Vascular anomalies (A) #
 
+	A. Ephelis
+	B. Nodular melanoma
+	C. Giant congenital naevus
+	D. Lentigo maligna melanoma
+	E. Blue naevus
+	F. Dysplastic naevi
+	G. Solar lentigo
+	H. Amelanotic melanoma
+	I. Acral lentiginous melanoma
+
 #### S1
+A 40-day-old baby girl is brought to the GO with a macular, dark red lesion over the right side of her forehead. The parents say that this lesion has been present since birth. It does not cross the midline. The baby is well otherwise and general examination is unremarkable.
 ##### Answer:
 
 #### S2
+A 2-yo boy is brought to ED with seizure, predominantly affected the left side. On examination, there is a macular, reddish-brown stain along the left forehead extending up to his eyelids. The parents say that this discolouration has been present since birth. MRI-Brain reveals a left-sided cortical atrophy.
 ##### Answer:
 
 #### S3
+A 13-yo girl is brought to her GP with an increase in the length of her right leg. On examination, there are multiple, macular lesions over the anterolateral aspect of the right thigh. A few, clear-fluid filled vesicles are also seen.
 ##### Answer:
 
 
 ### Theme: Non-malignant cutaneous lumps (A) #
 
+	A. Necrobiois lipoidica
+	B. Dermatofibroma
+	C. Lupus vulgaris
+	D. Seborrhoeic kerotosis
+	E. Stucco keratosis
+	F. Dermoid cyst
+	G. Xanthelasma
+	H. Sebaceous cyst
+	I. Pilomatricoma
+
 #### S1
+A 3-yo boy is brought to his GP by his parents with a painless swelling over the midline of the nose. The parents say that the swelling has been present since birth. On examination, the swelling is soft, non-tender and measures 5cm in diameter. A small pit is visible.
 ##### Answer:
 
 #### S2
+A 34-yo diabetic presents to his GP with a painful, yellowish plaque over his right pre-tibial region. On examination, the plaque has an atrophic telangietatic center. There is also a small area of ulceration.
 ##### Answer:
 
 #### S3
+A 64-yo farmer presents with multiple, raised, pigmented lesions over his trunk and arms. On examination, the lesions are well circumscribed, oval shaped and have got a greasy feel. The surface over some of the lesions shows a network of crypts.
 ##### Answer:
 
 
