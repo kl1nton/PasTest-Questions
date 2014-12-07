@@ -365,15 +365,19 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 	O. Seborrhoeic keratosis
 
 #### S1
+A 45-yo carpenter presents with a lump over the dorsum of his right wrist that disappears on extension of the joint. The overlying skin is normal. 
 ##### Answer:
 
 #### S2
+A 65-yo woman presents with a lesion on her cheek that had rapidly increased in size over the last 6/52 but has recently begun to get smaller. O/E she has a 9mm hemispherical nodule that has a rolled edge and a central horny plug. There is no local lymphadenopathy.
 ##### Answer:
 
 #### S3
+A 3-yo child attends after her parents notic a cluster of coloured small lumps in her axilla. She is otherwise well and her vaccinations are up to date. O/W there are multiple circumscribed 2-3 mm cystic looking papules. Some are translucent while others are brown, red or black in colour There do not blanch with pressure.
 ##### Answer:
 
 #### S4
+A 35-yo woman presents with a lump on her lower lip which has appeared rapidly over the last 6-days following a minor injury to the area. O/E there is a pink hemispherical nodule, 6mm in diameter, that appears vascular and friable, There is no local lymphadenopathy.
 ##### Answer:
 
 
@@ -397,15 +401,19 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 	Q.
 
 #### S1
+A 6-yo boy is brought in to clinic by his parents with a deep purple lesion over his right zygoma. It has been present since birth and he is otherwise well. On examination, it extends over the entire cheek and is lumpy and thickened on palpation. There is no associated lymphadenopathy.
 ##### Answer:
 
 #### S2
+A 3-mo old baby is broiugh in by concerned parent who have noticed that a red lesion over his forehead, present since shortly after birth, has begun to reduce in size but has developed a black area centrally. There is not other lymphadenopathy and the child is otherwise developing normally.
 ##### Answer:
 
 #### S3
+A 35-yo man present with rectal bleeding and is noted to have multiple pigmented, small, flat moles around his mouth, on his lips and in the buccal membrane.
 ##### Answer:
 
 #### S4
+A 65-yo woman presents with a rapidly growing, itchy, variegated, pigmented lesion on her arm. On examination, there is a single flat black-brown area measuring 3cm with an irregular margin surrounded by multiple smaller brown lesions.
 ##### Answer:
 
 
@@ -420,12 +428,15 @@ A 27-yo 70kg man is rescued by the fire service from a house fire. He has extens
 	G. T4 lesion
 
 #### S1
+A 33-yo woman has been referred with a possible Dx of cutaneous melanoma. On examination she has nodular malignant melanoma over the anterior aspect of her leg. The lesion appeasrs ulcerated. An excision biopsy is performed, the histology of which confirms and ulcerated, nodular malignant melanoma, Breslow's thickness of 1.79mm. The lesion has been completely excised.
 ##### Answer:
 
 #### S2
+A 56-yo man has presented with a hard fixed mass in his neck. On examination he is noted to have a superficial spreading melanoma on his forehead and, in addition, has multiple enlarged cervical lymph nodes. The rest of the examination is unremarkable. A fine-needle aspiration of the lymph nodes is performed along with an excision biopsy of the lymph nodes, the results of which confirm a superficial spreading malignant melanoma, Breslow's thickness is 2.32mm. Cytology from the fine-needle aspirate reveals the presence of lymph node metastases. Subsequent staging scans reveal no evidence of distance metastases.
 ##### Answer:
 
 #### S3
+A 65-yo woman is seen with a 1/12 Hx of slowly progressive jaundice and weight-loss. She also gives a 1-yr Hx of module behind her right knee, which has recently started to ulcerate. She initially thought this was a cyst. On examination, she is obviously icteric and appears wasted. Of note she is considerably short of breath at rest. Examination of her legs reveals an ulcerated nodular melanoma behind her right knee along with several enlarged inguinal lymph nodes on the same side. A hard irregular liver edge is found on palpation of her abdomen.
 ##### Answer:
 
 
