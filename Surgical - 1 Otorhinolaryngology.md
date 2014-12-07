@@ -748,7 +748,7 @@ A 25-year-old fireman is rescued by his colleagues after becoming trapped by fal
 	- Should have electively intubated patient before sign is present
 - Similar pattern of airway obstruction can be caused by ingestion of corrosives, such as strong acids/alkalis
 
-## Theme: Non-neoplastic salivary gland disease (A)
+## Theme: Non-neoplastic salivary gland disease (A): #4547
 
 	A. Acute suppurative sialadenitis
 	B. HIV-associated sialadenitis
@@ -759,8 +759,6 @@ A 25-year-old fireman is rescued by his colleagues after becoming trapped by fal
 	G. Sjogren's syndrome
 	H. Viral parotitis
 	I. Xerostomia
-	
-\#4547
 
 #### S1
 A 49-year-old man attends ED with severe, sudden onset submandibular pain. Over the last few weeks he has experiences similar pain precipitated by eating, but never as severe as this. Past history includes hypertension. On examination, he is afebrile and there is diffuse submandibular swelling that is only minimally tender on palpation.
@@ -777,14 +775,263 @@ A 49-year-old man attends ED with severe, sudden onset submandibular pain. Over 
 	1. Diabetes mellitus
 	2. Hypertension
 	3. Chronic liver disease
-- HERE
+- A stone within a gland may be asymptomatic
+	- Whereas a stone in the duct is likely to cause painful swelling that is precipitated by eating
+- Acute suppurative sialadenitis may supervene
+	- Characterised by fever and severe pain
+	- May give rise to spasm of adjacent muscles of mastication
+		- Leading to 'trismus'
+		- Such a patient may be toxic
+
+**Notes**
+- 20% of submandibular (66% of parotid) are radiolucent
+	- Sialography is indicated to demonstrate filling defects
+- Stones may be removed surgically 
+	- Distal stones: lithotomy 
+	- Proximal stones: excision of the duct with the gland
 
 #### S2
-A 32-year-old woman is referred to clinic with parotidomegaly. She reports intermittent painless welling over the last few months. Past medical history include hypothyroidism and chronic back pain for which she takes thyroxine 100µg and co-proxaol, respectively. On examination, there is soft enlargement of the parotid gland. 
-##### Answer: H. Viral parotitis - FALSE
+A 32-year-old woman is referred to clinic with parotidomegaly. She reports intermittent painless welling over the last few months. Past medical history includes hypothyroidism and chronic back pain for which she takes thyroxine 100µg and co-proxaol, respectively. On examination, there is soft enlargement of the parotid gland. 
+
+##### Answer: H. Viral parotitis - *FALSE*
+F. Sialosis - TRUE
+- Sialosis refers to recurrent swelling of the salivary gland
+	- In the **absence** of neoplasia or inflammation
+- The swelling is typically painless and bilateral
+- An important distinguishing feature from other causes of parotidomegaly 
+	- Gland, although enlarged, remains soft and not indurated
+- Sialosis occurs in association with 
+	1. Endocrine disorders
+		- Myxoedema
+		- Cushing's disease
+		- Diabetes mellitus
+	2. Metabolic disturbances
+		- Nutritional disorders
+		- Vitamin deficiencies 
+	3. Certain drugs, including 
+		- Dextropropoxyphene (co-proxamol)
+		- Oral contraceptive pill (OCP)
+		- Anti-psychotics
+		- Clonidine
 
 #### S3
 A 50-year-old woman presents with a recent history of dry mouth. On direct questioning she reports irritations of her eyes, although she denies arthralgia. There is no relevant past medical or drug history. Clinical examination of the salivary glands is unremarkable. FBC is normal, but ESR and CRP are both grossly elevated.
 ##### Answer: G. Sjogren's syndrome - TRUE
+- The salivary glands may be damaged by autoimmune disease
+- Primary Sjogren's syndrome is characterised by the presence of 2 of the following triad
+	1. Keratoconjunctivitis sicca (dry eyes)
+	2. Xerostomia (dry mouth)
+	3. Rheumatoid arthritis, or other connective tissue disorder e.g.
+		- Scleroderma
+		- Systemic Lupus Erythematosus (SLE)
+		- Polyarteritis nodosa
+- The clinical scenario presented describes a patient with primary Sjogren's syndrome
+	- Xerostomia + Xerophthalmia with **no** connective tissue component
+- By contrast, secondary Sjogren's syndrome refers to the presence of all three features
+
+**Notes**
+- The main differential in 'at risk' groups is that of HIV-associated sialadenitis
+	- Which is clinically indistinguishable
+- The diagnosis should be considered especially in female patients
+	- Sjogren's has a female predominance of 10:1
+- Mikulicz's syndrome is also an automimmune syndrome that describes
+	1. Enlargement of the salivary glands
+	2. Xerostomia
+	3. Enlargement of the lacrimal glands causing
+		- Bulge below the outer end of the eyelids
+		- Narrowing in the palpebral fissures
+	
+## Theme: Salivary gland tumours (A): #4548
+
+	A. Acinic cell carcinoma
+	B. Adenocarcinoma
+	C. Adenoid cystic carcinoma
+	D. Epidermoid carcinoma
+	E. Lymphoma
+	F. Metastatic carcinoma
+	G. Monomorphic adenoma (**synonym**: adenolymphoma - Warthin's tumour)
+	H. Mucoepidermoid carcinoma
+	I. Pleomorphic adenoma
+	J. Squamous cell carcinoma
+	
+#### S1
+A 47-year-old man is referred to clinic with unilateral swelling affecting the right parotid gland. He reports painless swelling, increasing in size over the last few years. Examination confirms intact facial nerve function, although inspection of the mouth reveals displacement of the right tonsil and pillar of the fauces towards the midline.
+##### Answer: G. Monomorphic adenoma (Warthin's tumour) - FALSE
+I. Pleomorphic adenoma - TRUE
+- Tumour is a slow-growing lesion that comprises glandular and stromal elements
+	- Does **not** have a true capsule, but a pseudo-capsule resulting from fibrosis of the abjacent compressed salivary tissue
+- Multiple projects extending through 'defects' in the pseudo-capsule into the normal surrounding tissue prevent treatment by enucleation
+- Clinically, pleomorphic adenomas present as slow-growing painless masses
+- There is _rarely_ disruption of the Facial Nerve
+	- Although location in the deep part of the gland may displace adjacent structures inside the mouth
+- Diagnosis is confirmed by fine-needle aspiration
+
+**Notes**
+- Such tumours should be removed by parotidectomy
+	- Superficial: tumour in superficial lobe of the gland
+	- Total + preservation of Facial Nerve: when tumour involved deep part of gland
+- Tumours in submandibular gland should be treated by excision of the gland
+
+#### S2
+A 61-year-old woman has been referred urgently by her GP with a history of painful swelling of the right parotid gland. She has recently developed facial nerve palsy on the right side. Examination reveals a cystic mass that os fixed over the parotid gland, and associated cervical lymphadenopathy. Fine-needle aspiration demonstrates the presence of atypical mucous cells.
+##### Answer: H. Mucoepidermoid carcinoma - TRUE
+- This is the **most common malignant** salivary gland tumour
+- Associated pain is not a reliable indicator of malignancy
+	- But pain **is** associated with a worse prognosis in _proven malignancy_
+- Presentation with facial nerve involvement is **very suggestive** of a malignant tumour
+**Notes**
+- 25% of patients have associated lymphadenopathy at time of presentation
+- Histologically, the tumour is composed of epidermoid cells & mucous cells
+	- Which secrete mucus into the stroma of the tumour
+	- Giving rise to its cystic nature
+- Tumours may be graded as high- or low- grade
+	- Although their biological behaviour tends to be unpredictable
+- 10-yr survival rates for high/low grade tumours
+	- High-grade: 40%
+	- Low-grade: 80%
+
+#### S3
+A 71year-old man presents with swelling of the left parotid gland. Examination reveals a non-tender enlargement of the left parotid gland, with bilateral cervical and axillary lymphadenopathy. These is intact facial nerve function. FBC: Hb = 8.8 g/dL, WCC = 2.2 x 10^9^/L, PLT: 45 x 10^9^/L
+##### Answer: E. Lymphoma - TRUE
+- Primary salivary gland lymphomas are uncommon
+	- Accounting for 10% of all salivary gland malignancies
+	- The majority tend to be **non**-Hodgkin's lymphoma (NHL)
+- Patients with non-Hodgkin's usually present with localised or generalised **non**-tender lymphadenopathy
+- ~40% of patients have bone marrow involvement at presentation
+	- Resulting in cytopenia
+	- May be associated splenic or hepatic involvement
+	
+## Theme: Neck lumps (A) #4549
+	A. Branchial cyst
+	B. Carotid body tumour
+	C. Cervical rib
+	D. Cystic hygroma
+	E. Parotid tumour
+	F. Pharyngeal pouch
+	G. Sternocleidomastoid tumour
+	H. Submandibular tumour
+	I. Thyroglossal cyst
+	J. -- _option removed_ --
+	K. Tonsillitis
+
+#### S1
+A 37-year-old man presents with a new lump in his neck that on examination is situated in the left carotid triangle, and appears to be deep to the upper third of the SCM. It feels firm and cystic on palpation. Aspiration reveals 10 mL of thick yellow fluid. He is otherwise fit and well.
+##### Answer: D. Cystic hygroma - *FALSE*
+A. Branchial cyst - TRUE
+- Branchial cysts is a remnant of, usually the **second** branchial cleft
+- It is lined by squamous epithelium and if infected, a small sinus may develop tracking to the ski at the anterior border of the SCM
+- Presentation is often as this scenario
+	- Cyst arising from the junction between upper and middle 1/3rds of SCM
+- Treatment is surgical excision with concomitant ABx treatment of any pore-existing infection
+- Care must be taken to excise the entire cyst to prevent recurrence
+	- It is not necessary to trace and excise andy tract to the pharynx
+- Patients must be made fully aware of and five full consent 
+	- Regarding risks of damage to accessory, vagus and hypogossal nerves
+- Rarely a chronically infected cyst may become adherent to the internal jugular vein (IJV)
+
+#### S2
+An 80-year-old woman presents with a history of dysphagia, halitosis, regurgitation and recurrent chest infections. She is otherwise well.
+##### Answer: F. Pharyngeal pouch - TRUE
+- Also known as Zenker's diverticulum
+	- Often present in the elderly where they have had the opportunity to develop without many Sx
+	- Patients eventually complain as in this scenario with dysphagia and subsequent weight loss
+- Pulmonary overspill occurs
+	- Hoarseness and recurrent chest infections may be the only presenting feature
+- A low, anterior triangular mass may be felt and fluid within the pouch can sometimes be displaced on deeper palpation
+- Aetiology is unknown
+	- Imaging studies suggest a neuromuscular incoordination resulting in herniation of the mucosa through the muscular coat
+- Weakest point is **Killian's dehiscence** between the thyropharyngeal and cricopharyngeal muscles
+	- Constitute the _inferior constrictor muscle_
+- Management: surgical excision using open or endoscopic technique
+
+#### S3
+A 4-month-old infant is brought to clinic with a unilateral swelling on the right side of the neck, The child is noted to posture her head awkwardly, She is otherwise well but her mother reports that she was born by a difficult forceps delivery for a breech presentation.
+##### Answer: A. Branchial cyst - *FALSE*
+G. Sternocleidomastoid tumour - TRUE
+- These appear 1-2 months after birth
+	- Usually accompanied by a history of a complicated or breech birth
+- The 'tumour' is unilateral situated as described in this scenario
+	- It is initially a haematoma with associated muscle degeneration
+	- It is often tender at first and associated with torticollis
+- Early treatment is imperative - to prevent permanent disability
+	- Active + passive stimulation: achieved at home by infant's parents
+- This normally reduceds the 'tumour' over the first 4-6 months
+	- Late presentation or failure to respond to conservative treatment require surgery
+
+#### S4
+A 20-year-old woman presents with an asymptomatic painless lump in the midline below her chin. The lump is smooth, measures 1cm, is non-tender and moves on swallowing
+##### Answer: I. Thyroglossal cyst - TRUE
+-  gut
+
+**Notes**
+- When considering neck lumps, it may be helpful to consider the anatomy of the neck and its sub-division into anterior and posterior triangles
+- However, it is the Editor's view that, in practice, there is a broad division into three
+	1. Lymphadenopathy (cervical or supraclavicular): lateral and common
+	2. Thyroid lumps/enlargement (and thyroid gland cyst): midline and common
+	3. Oddities (often embryologic): lateral and rare
+
+## Theme: Cervical lymphadenopathy
+	A. Idiopathic histiocytic necrotising lymphadenitis
+	B. Infectious mononucleosis
+	C. Lymphoreticular disease
+	D. Metastatic malignancy
+	E. Sarcoidosis
+	F. Scalp infection
+	G. Tonsillitis
+	H. Toxoplasmosis
+	I. Tuberculosis
+
+#### S1
+##### Answer:
+
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+## Theme: Lumps in the neck (?): #5538
+
+	A. Cystic hygroma
+	B. Carotid body tumour
+	C. Tumour in the sterocleidomastoid muscle
+	D. Branchial cyst
+	E. Cervical lymphadenopathy
+	F. Thyroid ademia
+	G. Carotid artery aneurysm
+	
+#### S1
+##### Answer:
+
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+## Theme: Neck swellings
+	
+	A. Branchial cyst
+	B. Sebaceous cyst
+	C. Cystic hygroma
+	D. Cervical lymph node metastasis
+	E. Sternomastoid tumour
+	F. Ludwig's angina
+	G. Thyroglossal duct cyst
+
+#### S1
+##### Answer:
+
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+#### S5
+##### Answer:
 
 ---
