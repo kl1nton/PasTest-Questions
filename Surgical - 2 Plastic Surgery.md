@@ -283,7 +283,86 @@ What should happen next in this case?
 
 15 Questions: ??%
 
-### Theme: Management of burns (E) #
+### Theme: Management of burns (A) #4552
+
+	A. 0.5 to 1 Ringer's lactate solution in 8-hr
+	B. 0.5 to 1 Ringer's lactate solution in 8-hr, transfer to burns unit
+	C. 1 to 2 Ringer's lactate solution in 8-hr
+	D. 1 to 2 Ringer's lactate solution in 8-hr, transfer to burns unit
+	E. 2 to 4 Ringer's lactate solution in 8-hr
+	F. 2 to 4 Ringer's lactate solution in 8-hr, transfer to burns unit
+	G. 3 to 6 Ringer's lactate solution in 8-hr, transfer to burns unit
+	H. 4 to 8 Ringer's lactate solution in 8-hr, transfer to burns unit
+	I. 5 to 10 Ringer's lactate solution in 8-hr, transfer to burns unit
+
+**BSA** = body surface area
+
+#### S1
+A 70kg mechanical engineer sustains a mixture of partial and full thickness burns to his lower limbs (< 5% BSA, full-thickness) from a fractured pipe leaking pressurised steam. You calculate that he has 14% BSA total burns. Assuming that the patient is being assessed in a burns unit, what rate of fluid resuscitation is recommended?
+
+##### Answer: F. 2 to 4 Ringer's lactate solution in 8-hr, transfer to burns unit - **FALSE**
+C. 1 to 2 Ringer's lactate solution in 8-hr
+
+- By calculation: 2-4 mL x 70 x 14 = 2-4 L over 24hr → 1-2 L over 8hr
+- Patient does not meet the guidelines for transfer
+	- **Adult**
+		- > 20% BSA total burns (2nd or 3rd degree), or 
+		- > 5% BSA full-thickness (3rd degree)
+- Other criteria for an adult include
+	- Injuries to a specific body area
+		- Eyes, ears, face
+		- Hands, genitalia
+		- Associated inhalation injury
+	- Specific types of burn
+		- Electrical
+		- Certain chemical
+
+#### S2
+A 9-yo child weighing 35kg sustains 14% blistering burns to the upper limbs while trying to 'torch' a dumped car on his council estate.
+
+##### Answer: D. 1 to 2 Ringer's lactate solution in 8-hr, transfer to burns unit - **FALSE**
+B. 0.5 to 1 Ringer's lactate solution in 8-hr, transfer to burns unit - TRUE
+
+- By calculation: 2-4 mL x 35 x 14 = 1-2 L over 24hr → 0.5-1 L over 8hr
+- Any child (< 10 years) with partial or full-thickness burns > 10% BSA
+	- Should be referred to a burns unit
+
+#### S3
+A 27-yo 70kg man is rescued by the fire service from a house fire. He has extensive partial and full-thickness burns covering the front and back of the trunk, and the front and back of one lower limb.
+
+##### Answer: H. 4 to 8 Ringer's lactate solution in 8-hr, transfer to burns unit - TRUE
+- **Rule of Nines** used to calculate BSA affected by burns
+	- Head: 9% (1)
+	- Front/Back Trunk: 18% (2x2 = 4)
+	- Lower Limb: 18% (2x2 = 4)
+	- Upper Limb: 9% (2x1 = 2)
+	- Perineum: 1%
+- Patient has (trunk) 2x18% + (one lower limb) 1x18% = 54%
+	- Fluid requirement: 2-4 mL x 70 x 54 = 8-16 L in 24hr → 4-8 L over 8hr
+	- Patient _clearly_ requires transfer (54% >> 20%)
+	
+**Notes**
+- Answer to Q relies on specific knowledge of 2 ares of burn management
+	1. Fluid formula: 2-4 mL x kg x % BSA in 24hr (1/2 in **first** 8hr)
+	2. American Burn Association guidelines for T/F to a burn center
+
+
+### Theme: Benign skin and subcutaneous lesion (E) #
+	A. Angioma
+	B. Benign papilloma
+	C. Clear cell acanthoma circumscriptum (viral warts
+	D. Epidermal cysts
+	E. Ganglion
+	F. Glomus tumour
+	G. Histiocytoma
+	H. Keratocanthoma
+	I. Lipoma
+	J. Lymphangioma
+	K. Molluscum contagiosum
+	L. Neurofibroma
+	M. Pyogenic granuloma
+	N. Sebaceous cyst
+	O. Seborrhoeic keratosis
 
 #### S1
 ##### Answer:
@@ -294,61 +373,232 @@ What should happen next in this case?
 #### S3
 ##### Answer:
 
-### Theme: (E) #
+#### S4
+##### Answer:
+
+
+### Theme: Pigmented lesions of the skin (E) #4554
+	A. 
+	B.
+	C.
+	D.
+	E.
+	F.
+	G.
+	H.
+	I.
+	J.
+	K.
+	L.
+	M.
+	N.
+	O.
+	P.
+	Q.
 
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+
+### Theme: Malignant melanoma (E) #4556
+
+	A. N1 classification
+	B. Stage III disease
+	C. Stage IV disease
+	D. T1 lesion
+	E. T2a lesion
+	F. T2b lesion
+	G. T4 lesion
+
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+
+### Theme: Skin ulcers (E) #
+
+	A.
+	B.
+	C.
+
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+
+### Theme: Malignant melanoma (E) #
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+
+### Theme: Skin lesions (E) #
+
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+#### S5
+##### Answer:
+
+
+### Theme: Non-malignant cutaneous lumps (E) #
+
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+
+### Theme: Cutaneous malignancies (E) #
+
 #### S1
 ##### Answer:
 
-### Theme: (E) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+#### S4
+##### Answer:
+
+
+### Theme: Premaligant lesions/cutaneous malignancies (A) #
+
 #### S1
 ##### Answer:
 
-### Theme: (A) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+
+### Theme: Benign and malignant pigmented skin lesions (A) #
+
 #### S1
 ##### Answer:
 
-### Theme: (A) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+
+### Theme: Vascular anomalies (A) #
+
 #### S1
 ##### Answer:
 
-### Theme: (A) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+
+### Theme: Non-malignant cutaneous lumps (A) #
+
 #### S1
 ##### Answer:
 
-### Theme: (A) #
+#### S2
+##### Answer:
+
+#### S3
+##### Answer:
+
+
+### Theme: Disorders of the wrist and hand (A) #
+
 #### S1
 ##### Answer:
 
-### Theme: (A) #
-#### S1
+#### S2
 ##### Answer:
 
-### Theme: (A) #
+#### S3
+##### Answer:
+
+
+### Theme: Skin lesions (A) #
+	A. Pyogenic granuloma
+	B. Basal cell carcinoma (BCC)
+	C. Malignant melanoma
+	D. Condylomata acuminata
+	E. Fibroma
+	F. Seborrhoeic warts
+	G. Squamous cell carcinoma (SCC)
+	H. Sebaceous cyst
+	I. Dermoid syst
+
 #### S1
+A 70-yo woman presents with several raised brown lesions on her thorax. They are not discharging and not itchy.
+##### Answer:
+
+#### S2
+A 34-yo woman presents with an itchy discharging brown lesion on her calf, heavily pigmented and bleeding.
+##### Answer:
+
+#### S3
+A man oresents with a raised, non-discharging, not irritable lesion on his face, pearly in appearance.
+##### Answer:
+
+#### S4
+A man hit his finger 1-wk ago with a hammer. He now presents with a painful raised lesion on his finger.
+##### Answer:
+
+#### S5
+A 7-yo boy present with a small soft swelling at the corner of his eyebrow, not fixed or ulcerated.
 ##### Answer:
 
 ---
